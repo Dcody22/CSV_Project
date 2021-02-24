@@ -1,6 +1,3 @@
 # matplotlib_csv
-Advanced Python - Matplotlib - using CSV files
 
-this project is to teach students how to use CSV files in python
-this project also teaches students how to visualize the data using matplotlib
-
+In this project, I am demonstrating my abilities for data visualization and working with csv files with the csv library. 
